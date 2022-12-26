@@ -161,5 +161,109 @@
 
       </div>
     </section>
+        <section id="team" class="team section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h3><span>Solusi Terbaik</span> Dari Kami</h3>
+          <p>Kami menawarkan solusi terbaik untuk segala kebutuhan website dan sistem anda. Mulai dari blog hingga website bisnis dan perusahaan.</p>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-4 col-md-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/solusi-perusahaan.png" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>Perusahaan</h4>
+                <span>Wujudkan perusahaan profesional dan berkelas dengan dukungan website terbaik dan fitur keamanan ekstra</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/solusi-organisasi.png" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>Organisasi dan Komunitas</h4>
+                <span>Website sebagai wadah perkumpulan komunitas atau organisasi di internet</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/solusi-umkm.png" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>UMKM dan Toko Online</h4>
+                <span>Mendukung kebutuhan website yang fokus dalam pemasaran barang/ jasa secara online</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-4 col-md-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/solusi-sekolah.png" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>Sekolah</h4>
+                <span>Infrastruktur terbaik untuk menunjang kegiatan e-learning. Didukung platform MOODLE khusus pembelajaran daring.</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/solusi-developer.png" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>Developer</h4>
+                <span>Tersedia paket hosting dengan spesifikasi khusus yang dev-friendly. Ekstra NodeJS dan Git Version Control.</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/solusi-blogger.png" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>Blogger dan Personal</h4>
+                <span>Memfasilitasi blogger dengan infrastruktur website terbaik serta template website premium untuk tampil lebih profesional.</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+    <section id="website" class="website">
+      <div class="container" data-aos="zoom-in">
+        <div class="row">
+          <div class="col-md-6 web-bg">
+            <img src="{{asset ('assets/img/web-bg.png') }}" alt="web-bg">
+          </div>
+          <div class="col-md-6">
+              <h1>Bikin <span>Website Impian</span> Dengan Mudah Disini</h1>
+              <h2>Jasa pembuatan website profesional untuk Perusahaan, Bisnis & UKM. Bikin Website Impian dengan mudah disini, desain website elegan dan mudah dikelola.</h2>
+              <h2 style="font-weight: bold; font-size: 25px">Hanya 1 Jutaan !</h2>
+              <button class="btn btn-outline-secondary submit-btn btn-lihat" type="button">Lihat selengkapnya</button>
+          </div>
+
+      </div>
+      </div>
+    </section>
 @endsection
  
