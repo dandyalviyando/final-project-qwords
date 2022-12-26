@@ -45,7 +45,7 @@
                   <li class="na">Addon Domain</li>
                   <li class="na">Parked Domain</li>
                 </ul>
-                <div class="btn-wrap">
+                <div class="btn-wrap1">
                   <a href="#" class="btn-buy">Order sekarang</a>
                 </div>
               </div>
@@ -65,7 +65,7 @@
                     <li>5 Parked Domain</li>
                     
                   </ul>
-                  <div class="btn-wrap">
+                  <div class="btn-wrap2">
                     <a href="#" class="btn-buy">Order sekarang</a>
                   </div>
                 </div>
@@ -85,7 +85,7 @@
                     <li class="na">5 Parked Domain</li>
                     
                   </ul>
-                  <div class="btn-wrap">
+                  <div class="btn-wrap3">
                     <a href="#" class="btn-buy">Order sekarang</a>
                   </div>
                 </div>
@@ -105,7 +105,7 @@
                     <li>Unlimited Parked Domain</li>
                     
                   </ul>
-                  <div class="btn-wrap">
+                  <div class="btn-wrap4">
                     <a href="#" class="btn-buy">Order sekarang</a>
                   </div>
                 </div>
@@ -113,5 +113,53 @@
           </div>
         </div>
       </section>
+
+          <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h3>Lihat Juga<span> Layanan Kami Yang Lain</span></h3>
+          <p>Layanan unggulan dengan teknologi terbaik untuk website anda.</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <img src="{{asset ('assets/img/other-services-img-1.png') }}" alt="other-services-1" class="mb-4" style="width: 75px; height: 75px;">
+              <h4><a href="">SSL</a></h4>
+              <p>Jadikan website Anda lebih terpercaya dan disukai oleh search engine dengan menggunakan SSL Certificate.</p>
+              <div style="color: #777777; margin-top: 28px; margin-bottom: 10px; font-size: 12px; font-weight: 700">Mulai Dari</div>
+              <h4><sup>Rp</sup>112.000<span> / tahun</span></h4>
+              <button id="order-btn" type="button" class="btn btn-md">Order Sekarang</button>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <img src="{{asset ('assets/img/other-services-img-2.png') }}" alt="other-services-2" class="mb-4" style="width: 75px; height: 75px;">
+              <h4><a href="">Dedicated Server</a></h4>
+              <p>Nikmati kelola Dedicated Server sendiri dengan akses remote dari seluruh dunia tanpa batas</p>
+              <div style="color: #777777; margin-top: 28px; margin-bottom: 10px; font-size: 12px; font-weight: 700">Mulai Dari</div>
+              <h4><sup>Rp</sup>499.000<span> / bulan</span></h4>
+              <button id="order-btn" type="button" class="btn btn-md">Order Sekarang</button>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <img src="{{asset ('assets/img/other-services-img-3.png') }}" alt="other-services-3" class="mb-4" style="width: 75px; height: 75px;">
+              <h4><a href="">Colocation Server</a></h4>
+              <p>Akses cepat dari seluruh dunia dengan fasilitas 24x7 full monitoring dengan cooling system terbaik serta fire extinguisher</p>
+              <div style="color: #777777; margin-top: 28px; margin-bottom: 10px; font-size: 12px; font-weight: 700">Mulai Dari</div>
+              <h4><sup>Rp</sup>500.000<span> / bulan</span></h4>
+              <button id="order-btn" type="button" class="btn btn-md">Order Sekarang</button>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
 @endsection
  
