@@ -174,7 +174,7 @@
           <div class="col-lg-4 col-md-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/solusi-perusahaan.png" class="img-fluid" alt="">
+                <img src="{{asset('assets/img/solusi-perusahaan.png') }}" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Perusahaan</h4>
@@ -186,7 +186,7 @@
           <div class="col-lg-4 col-md-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/solusi-organisasi.png" class="img-fluid" alt="">
+                <img src="{{asset('assets/img/solusi-organisasi.png') }}" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Organisasi dan Komunitas</h4>
@@ -198,7 +198,7 @@
           <div class="col-lg-4 col-md-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/solusi-umkm.png" class="img-fluid" alt="">
+                <img src="{{asset('assets/img/solusi-umkm.png') }}" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>UMKM dan Toko Online</h4>
@@ -213,7 +213,7 @@
           <div class="col-lg-4 col-md-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/solusi-sekolah.png" class="img-fluid" alt="">
+                <img src="{{asset('assets/img/solusi-sekolah.png') }}" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Sekolah</h4>
@@ -225,7 +225,7 @@
           <div class="col-lg-4 col-md-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/solusi-developer.png" class="img-fluid" alt="">
+                <img src="{{asset('assets/img/solusi-developer.png') }}" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Developer</h4>
@@ -237,7 +237,7 @@
           <div class="col-lg-4 col-md-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/solusi-blogger.png" class="img-fluid" alt="">
+                <img src="{{asset('assets/img/solusi-blogger.png') }}" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Blogger dan Personal</h4>
@@ -415,6 +415,38 @@
                 <p class="card-text">"Dari 2015, kami memutuskan untuk memilih Qwords sebagai penyedia hosting dan domain untuk website kami. Sampai saat ini kami tidak pernah memutuskan untuk pindah layanan hosting. "</p>
               </div>
             </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <section id="support" class="website">
+      <div class="container" data-aos="zoom-in">
+        <div class="row">
+          <div class="col-md-12 col-lg-6 web-bg" style="text-align: center">
+            <img src="{{asset ('assets/img/img_cs_section.png') }}" alt="support-bg" style="max-width: 55%">
+          </div>
+          <div class="col-md-12 col-lg-6">
+              <h1><span>Miliki jawaban</span> untuk semua kebutuhan online Anda</h1>
+              <h2>Private Data Center, Support pelanggan 24 jam, Jaminan Ekstra Kemanan, Server Uptime dengan harga terjangkau.</h2>
+              <button class="btn btn-outline-secondary submit-btn btn-lihat" type="button">Dapatkan Sekarang</button>
+          </div>
+
+      </div>
+      </div>
+    </section>
+
+    <section id="payments" class="payments section-bg">
+      <div class="container" data-aos="zoom-in">
+        <div class="section-title">
+          <h3><span>Pilih Metode E-payment</span> Otomatis</h3>
+          <p>Layanan langsung aktif tanpa perlu konfirmasi bayar.</p>
+        </div>
+        <div class="row">
+
+          <div class="d-flex align-items-center justify-content-center">
+            <img src="assets/img/all-payment.jpg" class="img-fluid" alt="">
           </div>
         </div>
 
