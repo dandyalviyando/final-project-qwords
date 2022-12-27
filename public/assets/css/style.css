@@ -1437,3 +1437,22 @@ section {
   line-height: 27px;
 }
 
+#payments{
+  text-align: center;
+}
+
+#payments button{
+  margin-top: 3%;
+}
+
+#payments button:hover{
+  color: #fff;
+}
+
+@media (max-width: 768px){
+  #payments button{
+    font-size: 12px;
+    margin-top: 5%;
+  }
+}
+

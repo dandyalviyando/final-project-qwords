@@ -449,6 +449,7 @@
             <img src="assets/img/all-payment.jpg" class="img-fluid" alt="">
           </div>
         </div>
+        <button class="btn submit-btn btn-lihat" type="button">Lihat panduan pembayaran</button>
 
       </div>
     </section>
