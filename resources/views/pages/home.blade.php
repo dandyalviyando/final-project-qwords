@@ -161,7 +161,7 @@
 
       </div>
     </section>
-        <section id="team" class="team section-bg">
+    <section id="team" class="team section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -373,6 +373,49 @@
             <img src="assets/img/partner6.png" class="img-fluid" alt="">
           </div>
 
+        </div>
+
+      </div>
+    </section>
+    <section id="testimonial-videos" class="team section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h3>Apa <span>Kata Mereka ?</span></h3>
+          <p>Simak pengalaman mereka yang telah membuktikan sendiri fitur dari layanan kami.</p>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-4 col-md-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+            <div class="card">
+              <iframe src="https://www.youtube.com/embed/q2bJogin3eE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <div class="card-body">
+                <h5 class="card-title">Budi Raharjo</h5>
+                <p class="card-text">"Kami mendapat dukungan dari Qwords yaitu server dan hosting yang reliable dan bisa berjalan 24 jam per hari."</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+            <div class="card">
+              <iframe src="https://www.youtube.com/embed/f15zt4C2e4A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <div class="card-body">
+                <h5 class="card-title">Kuns Kurniawan</h5>
+                <p class="card-text">"Qwords dalam hal maintenance sangat cepat dan responsif. Terbaik lah pokoknya mah!"</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
+            <div class="card">
+              <iframe src="https://www.youtube.com/embed/ftJMF63RznM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <div class="card-body">
+                <h5 class="card-title">Denden Sofiudin</h5>
+                <p class="card-text">"Dari 2015, kami memutuskan untuk memilih Qwords sebagai penyedia hosting dan domain untuk website kami. Sampai saat ini kami tidak pernah memutuskan untuk pindah layanan hosting. "</p>
+              </div>
+            </div>
+          </div>
         </div>
 
       </div>

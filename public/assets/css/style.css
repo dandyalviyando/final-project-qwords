@@ -1351,3 +1351,53 @@ section {
     max-width: 40%;
   }
 }
+
+#testimonial-videos{
+  background-color: #fafafa;
+}
+
+#testimonial-videos .card-body{
+  background-color: #232631;
+}
+
+#testimonial-videos h5{
+  color: #fff;
+  text-align: center;
+}
+
+#testimonial-videos p{
+  text-align: center;
+}
+
+#testimonial-videos .card-text{
+  font-size: 13px;
+  font-style: italic;
+}
+
+#testimonial-videos .card-title{
+  font-size: 27px;
+  margin-bottom: 5%; 
+  border-bottom: 1px solid #fff; 
+  padding-bottom: 3%;
+}
+
+#testimonial-videos .card-body p {
+  color: #fff;
+}
+
+#testimonial-videos .card-body a {
+  color: #ff9800;
+}
+
+@media (max-width: 768px) {
+  #testimonial-videos .card {
+    margin-bottom: 3%;
+  }
+}
+
+@media (min-width: 1024px){
+  #testimonial-videos iframe{
+    height: 30vh;
+  }
+}
+
